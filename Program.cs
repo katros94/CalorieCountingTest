@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.IO;
 
+// https://adventofcode.com/2022/day/1
+
 class Program
 {
     static List<int> currentElfCaloriesFood = new List<int>();
