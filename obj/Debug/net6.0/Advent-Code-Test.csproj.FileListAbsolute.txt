@@ -1,0 +1,15 @@
+C:\Users\katri\source\repos\Advent-Code-Test\bin\Debug\net6.0\Advent-Code-Test.exe
+C:\Users\katri\source\repos\Advent-Code-Test\bin\Debug\net6.0\Advent-Code-Test.deps.json
+C:\Users\katri\source\repos\Advent-Code-Test\bin\Debug\net6.0\Advent-Code-Test.runtimeconfig.json
+C:\Users\katri\source\repos\Advent-Code-Test\bin\Debug\net6.0\Advent-Code-Test.dll
+C:\Users\katri\source\repos\Advent-Code-Test\bin\Debug\net6.0\Advent-Code-Test.pdb
+C:\Users\katri\source\repos\Advent-Code-Test\obj\Debug\net6.0\Advent-Code-Test.csproj.AssemblyReference.cache
+C:\Users\katri\source\repos\Advent-Code-Test\obj\Debug\net6.0\Advent-Code-Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katri\source\repos\Advent-Code-Test\obj\Debug\net6.0\Advent-Code-Test.AssemblyInfoInputs.cache
+C:\Users\katri\source\repos\Advent-Code-Test\obj\Debug\net6.0\Advent-Code-Test.AssemblyInfo.cs
+C:\Users\katri\source\repos\Advent-Code-Test\obj\Debug\net6.0\Advent-Code-Test.csproj.CoreCompileInputs.cache
+C:\Users\katri\source\repos\Advent-Code-Test\obj\Debug\net6.0\Advent-Code-Test.dll
+C:\Users\katri\source\repos\Advent-Code-Test\obj\Debug\net6.0\refint\Advent-Code-Test.dll
+C:\Users\katri\source\repos\Advent-Code-Test\obj\Debug\net6.0\Advent-Code-Test.pdb
+C:\Users\katri\source\repos\Advent-Code-Test\obj\Debug\net6.0\Advent-Code-Test.genruntimeconfig.cache
+C:\Users\katri\source\repos\Advent-Code-Test\obj\Debug\net6.0\ref\Advent-Code-Test.dll
